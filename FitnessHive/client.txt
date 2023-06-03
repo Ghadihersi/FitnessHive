@@ -1,0 +1,184 @@
+                                     Client Informtion File
+Name:ghadi hersi
+Sex:female
+Age:20
+Height:155.0
+Weight:52.0
+BMI:22.0 ,Normal
+Goal:Lose weight
+                                     Client Informtion File
+Name:ghadi hersi
+Sex:male
+Age:20
+                                     Client Informtion File
+Name:ghadi hersi
+Sex:male
+Age:20
+Height:155.0
+Weight:52.0
+BMI:22.0 ,Normal
+Goal:Lose weight
+Client Informtion File:
+Name:ghadi mahmoud
+Sex:male
+Age:33
+Height:190.0
+Weight:80.0
+BMI:22.0 ,Normal
+Goal:Lose weight
+Client Informtion File:
+Name:reem ahmad
+Sex:female
+Age:25
+Height:190.0
+Weight:70.0
+BMI:19.0 ,Normal
+Goal:Lose weight
+Client Informtion File:
+Name:sara mohammed
+Sex:female
+Age:21
+Height:155.0
+Weight:45.0
+BMI:19.0 ,Normal
+Goal:Lose weight
+Client Informtion File:
+Name:ghadi hersi
+Sex:female
+Age:21
+Height:180.0
+Weight:65.0
+BMI:20.0 ,Normal
+Goal:Lose weight
+Client Informtion File:
+Name:ghadi hersi
+Sex:female
+Age:32
+Height:155.0
+Weight:52.0
+BMI:22.0 ,Normal
+Goal:Lose weight
+Client Informtion File:
+Name:sara ahmad
+Sex:female
+Age:33
+Height:130.0
+Weight:43.0
+BMI:25.0 ,Overweight
+Goal:Lose weight
+Client Informtion File:
+Name:yasmen mohammed
+Sex:male
+Age:23
+Height:155.0
+Weight:67.0
+BMI:28.0 ,Overweight
+Goal:Enhance Physical Fitness
+Client Informtion File:
+Name:mona hussain
+Sex:female
+Age:21
+Height:144.0
+Weight:88.0
+BMI:42.0,Obsity
+Goal:Lose weight
+Client Informtion File:
+Name:ghadi hersi
+Sex:female
+Age:22
+Height:155.0
+Weight:52.0
+BMI:22.0 ,Normal
+Goal:Lose weight
+Client Informtion File:
+Name:mohammed ahmad
+Sex:male
+Age:23
+Height:198.0
+Weight:77.0
+BMI:20.0 ,Normal
+Goal:Lose weight
+Client Informtion File:
+Name:mayar khalid
+Sex:female
+Age:44
+Height:143.0
+Weight:60.0
+BMI:29.0 ,Overweight
+Goal:Lose weight
+Client Informtion File:
+Name:ghadi hersi
+Sex:female
+Age:22
+Height:170.0
+Weight:31.0
+BMI:11.0 ,Underweight
+Goal:Lose weight
+Height:155.0
+Name: ghadi
+Id Number: 2105350
+Phone Number: 0501399175
+Email address: ghadihersi@gmail.com
+Username: ghadihersi
+Password: gggi
+Sex: female
+Age: 31
+Height: 155.0 m
+Weight: 52.0 kg
+BMI:22.00.0
+Fitness Goal: Lose weight
+Height:166.0
+Name: GHADI
+Id Number: 2105350
+Phone Number: 0501399175
+Email address: ghadihersi@gmail
+Username: ghadihhh
+Password: 123456
+Sex: male
+Age: 21
+Height: 166.0 m
+Weight: 65.0 kg
+BMI:24.00.0
+Fitness Goal: Lose weight
+Height:5555.0
+Name: mmmm
+Id Number: 111
+Phone Number: 111
+Email address: 111g
+Username: gh
+Password: r3
+Sex: male
+Age: 221
+Height: 5555.0 m
+Weight: 444.0 kg
+BMI:0.00.0
+Fitness Goal: Enhance Physical Fitness
+Height:170.0
+Height:190.0
+Name: tieara
+Id Number: 2211
+Phone Number: 05055993012
+Email address: tit@gmail.com
+Username: rgh
+Password: 666
+Sex: female
+Age: 21
+Height: 190.0 m
+Weight: 60.0 kg
+BMI:17.00.0
+Fitness Goal: Lose weight
+Height:160.0
+Height:160.0
+Height:155.0
+Name: rana
+Id Number: 23456
+Phone Number: 0560751819
+Email address: roony@gmail.com
+Username: rooo
+Password: ro1256
+Sex: female
+Age: 83
+Height: 155.0 m
+Weight: 65.0 kg
+BMI:27.00.0
+Fitness Goal: Lose weight
